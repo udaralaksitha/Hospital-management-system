@@ -1,0 +1,17 @@
+ .gototop {
+    position: fixed;
+    width: 50px;
+    height: 18px;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    font-size: 25px;
+    color: #23527C;
+    transform: scale(1.2);
+  }
+
+  .gototop:hover{
+    color:red;
+  }
